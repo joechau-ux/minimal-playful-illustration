@@ -1,97 +1,139 @@
-# Good and Bad Case Translation
+# Examples and Decision Guide
 
-Use this reference to judge outputs, not to copy a composition literally. The original research set contained eight Good Cases and three Bad Cases. Its recurring visual lessons, filenames, and the user's three preference rounds were consolidated below.
+Use this reference to translate Good/Bad Cases and source photos into a minimal result. Do not copy a reference composition literally.
 
-## Good patterns to learn
+## Target abstraction
 
-### Running person with coffee
+The base is an **IP icon or extremely simple portrait**, not a complete character illustration:
 
-The character reads through a decisive action, a simple silhouette, and the relationship with the cup. Motion supplies charm; extra scenery is unnecessary.
+> icon-level abstraction + naïve hand-drawn warmth + 2–3 recognition anchors + one small surprise
 
-**Learn:** capture an event in progress. Let posture, hair, limbs, or a tilted object carry energy.
+Do not draw the whole photo accurately and then remove a few details. Start from the minimum.
 
-### Cat interacting with a white character
+## Source-photo translation
 
-The subjects form a small social moment rather than occupying separate slots. Their gaze, overlap, touch, or scale relationship makes the composition memorable.
+| Source evidence | Minimal translation |
+|---|---|
+| short black hair | one black hair silhouette |
+| long hair | one outer hair mass; optionally 1–2 large locks |
+| square glasses | one simple frame shape |
+| round or angular face | one decisive head silhouette |
+| red shirt | one red clothing block |
+| smile or sleepy expression | 2–3 facial marks |
+| family relationship | gaze, overlap, touch, shared crop, or one linking object |
 
-**Learn:** in multi-subject work, design the relationship before arranging the bodies.
+Do not translate lighting, skin texture, individual strands, nose structure, lips, folds, hands, shoes, room details, or camera perspective.
 
-### Pizza or wrap meeting a character's mouth
+### Family-photo example
 
-The object and face share one visual action. Cropping and scale focus attention on the humorous contact point.
+- Parent A: short dark hair block + square glasses + broad face.
+- Parent B: long dark hair silhouette + narrow face + curved smile.
+- Child: small head + short hair block + red clothing shape.
+- Composition: three heads or busts linked by overlap, gaze, or one shared object.
 
-**Learn:** preserve only the body parts needed for the idea. An object can participate in the character's expression.
+Stop there. Full seated bodies, modeled hands, garment folds, shoes, and the original room are outside the budget unless the request depends on them.
 
-### Three quirky animal heads
+## Composition ladder
 
-Few marks distinguish the characters. Differences in angle, expression, silhouette, and spacing create rhythm without requiring detailed bodies or a scene.
+Choose the first level that can express the request:
 
-**Learn:** repeated subjects need intentional variation and personality. Equal size is acceptable only when rhythm and interaction make the arrangement deliberate.
+1. **Head:** default for a single-person identity portrait.
+2. **Head-and-shoulders:** when clothing color or posture matters.
+3. **Simplified bust:** for a small interaction, hands, or a held object.
+4. **Partial/full body:** only when an action cannot be understood otherwise.
+
+A full-body source photo is not a reason to choose full body.
+
+## Complexity budgets
+
+### Single portrait
+
+- background: 1 field;
+- hair: 1–3 shapes;
+- face/head: 1 shape;
+- ears/neck: 0–3 shapes only if needed;
+- clothing: 1–2 shapes;
+- glasses/accessory: 1–3 shapes;
+- facial features: a few strokes.
+
+Target roughly 10–20 major shapes, often fewer.
+
+### Small group
+
+Apply the same ceiling per person, then simplify more aggressively so the group remains one icon-like composition. Use overlap, gaze, shared scale, or one object. Do not render separate detailed portraits.
+
+## Good patterns
 
 ### Minimal recognizable character
 
-Two or three identity cues outperform complete facial rendering. A hairstyle, glasses, face shape, posture, accessory, pattern, or key color can be enough.
+Two or three cues outperform complete facial rendering. Hairstyle silhouette, glasses, face shape, expression, accessory, or key color should do most of the work.
 
-**Learn:** decide the recognition anchors first, then delete everything that does not support them.
+**Learn:** identify anchors first; stop when recognition works.
 
-### Oversized object relationship
+### Quirky heads
 
-A large coffee cup, fruit, book, or sport object creates a clear story when the character hugs, rides, chases, leans on, or is pulled by it.
+Angle, silhouette, expression, and spacing create personality with few marks.
 
-**Learn:** exaggerate scale only when it creates a readable emotional or physical relationship.
+**Learn:** repeated subjects need rhythm and variation, not detailed bodies.
 
-### Visual metaphor
+### Character meeting an object
 
-An ordinary feeling becomes a tiny story: a spirit still in bed, a coffee dragging someone to work, or a fruit behaving like a balloon.
+A face, mouth, hand, or head meets an oversized cup, food, fruit, book, or racket. Crop and scale focus attention on one contact point.
 
-**Learn:** translate abstract language into one physical image. Keep the metaphor instantly understandable.
+**Learn:** show only the body parts required for the relationship.
+
+### Captured action or visual metaphor
+
+A tilt, reach, chase, or one physical metaphor creates energy without a scene: coffee pulls someone to work; fruit behaves like a balloon.
+
+**Learn:** use one decisive gesture or relationship instead of environmental detail.
 
 ### Solid-color contrast
 
-A clean field of color frames the subject and establishes mood. Contrast makes a very small or lightly drawn subject feel intentional.
+A single color field gives sparse drawing visual confidence.
 
-**Learn:** background color is structural, not decorative. Derive it from the subject, mood, or contrast need.
+**Learn:** background color is structural, not decorative.
 
-## Bad patterns to avoid
+## Bad patterns and corrections
 
-### Over-described person
+### Detailed portrait or picture-book rendering
 
-Detailed facial features, individual hair strands, clothing folds, and realistic anatomy can resemble the source while losing the relaxed illustration identity.
+Symptoms: full body by default, hair strands, nose/lip modeling, blush, folds, texture, shading, realistic fingers, detailed shoes, or a complete room.
 
-**Avoid:** interpreting fidelity as detail accumulation. Preserve 2–3 recognition cues instead.
+**Correction:** return to head/head-and-shoulders, select 2–3 anchors, rebuild from 10–20 shapes, and use flat color.
 
-### Mechanical lineup
+### Source photo dominating style
 
-Several heads or objects are presented side by side with no gaze, rhythm, shared action, or conceptual link. Unexplained size differences look accidental.
+Symptoms: copied pose, lighting, camera angle, background, anatomy, or spatial arrangement.
 
-**Avoid:** treating multiple subjects as an inventory. Give them a relationship or make the layout intentionally rhythmic and balanced.
+**Correction:** use the photo only for identity. Let Good Cases control abstraction, line, color, and composition.
 
-### Busy or inconsistent picture
+### Polished generic avatar
 
-Scattered decorative objects, mismatched outline weights, mixed rendering styles, or colorful fragments compete with the core subject. Brightness alone does not create energy.
+Symptoms: vector-perfect curves, symmetry, generic dot face, glossy finish, or standardized mascot proportions.
 
-**Avoid:** using decoration as surprise. Remove anything that does not strengthen identity, emotion, story, or composition.
+**Correction:** introduce one identity-specific silhouette and gentle naïve irregularity; do not add detail.
 
-## Concept recipes
+### Mechanical lineup or busy collage
 
-Generate several internally, then choose one:
+Symptoms: separate subjects with no gaze/overlap, or multiple props, decorations, metaphors, and actions.
 
-- **Relationship:** one subject looks at, carries, pulls, hides behind, leans on, or connects to another.
-- **Moment:** jumping, peeking, chasing, reaching, falling, tilting, or losing an object.
-- **Metaphor:** turn a mood into a visible physical situation.
-- **Scale:** one subject becomes unusually large or small for a reason.
-- **Crop:** let the canvas edge reveal only the parts that make the idea strongest.
-- **Quiet:** use a single expressive subject with no conceptual trick when restraint is the stronger choice.
+**Correction:** link subjects with one relationship and keep one primary idea.
 
-## Evaluation pairs
+## Prompt translation examples
 
-Prefer:
+### Photo to portrait
 
-- interaction over mere adjacency;
-- a captured moment over a passport pose;
-- feature-first abstraction over detailed likeness;
-- natural hand-drawn coherence over either polished vectors or uncontrolled scribbles;
-- one primary idea plus one quiet supporting idea over multiple simultaneous tricks;
-- a solid background with purposeful contrast over scenery or decorative fragments;
-- a new concept recipe on regeneration over a palette-only variation.
+> Use the source only for identity. Preserve the dark bob silhouette, round glasses, and yellow top. Create a head-and-shoulders icon using about 10–15 major flat shapes, a solid blue background, and sparse naïve hand-drawn contours. No strands, facial modeling, shading, texture, folds, detailed hands, or scenery.
 
+### Family image
+
+> Reduce the family to three overlapping heads or simplified busts. Preserve 2–3 anchors per person and express closeness through gaze and overlap. Use one solid background, flat colors, minimal facial marks, and one coherent hand-drawn line system. Do not reproduce the photographic pose or environment.
+
+### Playful concept
+
+> Draw a tiny character hugging an oversized coffee cup. Keep one readable relationship, flat colors, a solid background, and minimal naïve line art. Show only the body parts needed to make the hug clear.
+
+## Final comparison
+
+Prefer icon abstraction over reduced-detail realism; head/bust over full body; silhouette/expression over anatomy; one hair mass over strands; flat clothing blocks over folds; naïve coherent contours over polished vectors or scratchy sketching; Good Case style over source-photo rendering; and one relationship over added decoration.
