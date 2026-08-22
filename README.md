@@ -1,8 +1,8 @@
 # Minimal Playful Illustration
 
-A Codex Skill for converting photos, people, pets, objects, and short concepts into icon-like, minimal naïve hand-drawn illustrations.
+A Codex Skill for converting photos, people, pets, objects, and short concepts into bold, minimal naïve graphic-doodle illustrations.
 
-The Skill treats Good Cases as the style authority and source photos as identity evidence only. It defaults portraits to heads or simplified busts and rejects detailed picture-book rendering, texture, shading, and photographic composition.
+The Skill treats actual Good Case images as the style authority and source photos as identity evidence only. It uses thick wobbly outlines, flat vivid colors, deliberately odd shapes, symbolic faces, and compact physical interactions. It rejects polished Korean/Japanese family-portrait rendering as explicitly as realism.
 
 ## Install
 
@@ -33,6 +33,8 @@ Defaults:
 - **Complexity ceiling:** recognition comes from a small shape budget, not accumulated detail.
 - **Reference hierarchy:** Good Cases control style; source photos control identity only.
 - **Minimal naïve line art:** sparse, relaxed, slightly irregular contours with coherent weight.
+- **Actual visual references:** 2–4 relevant Good Cases must be inspected and passed into image generation; text alone cannot guarantee the style.
+- **Graphic-doodle DNA:** thick blunt black outlines, lumpy asymmetry, symbolic faces, and vivid flat fills.
 - **Flat construction:** solid background and opaque blocks; no gradients, modeling, or texture.
 - **Hard exclusions:** no strands, garment folds, facial shading, realistic fingers, detailed shoes, photographic scenery, or decorative clutter.
 - **One idea:** playfulness comes from one relationship, moment, metaphor, scale shift, or crop.
